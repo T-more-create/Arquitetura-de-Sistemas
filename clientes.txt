@@ -1,0 +1,6 @@
+[
+    {"nome": "Jennifer", "cidade": "Aracaju", "idade": 25, "salario": 3500},
+    {"nome": "Pedro", "cidade": "Aracaju", "idade": 32, "salario": 4200},
+    {"nome": "Carlos", "cidade": "Salvador", "idade": 28, "salario": 2900},
+    {"nome": "Maria", "cidade": "Recife", "idade": 41, "salario": 5000}
+]
